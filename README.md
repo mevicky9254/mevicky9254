@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on software developement skills
 - 🌱 I’m currently learning Backend dvelopment
 - 👯 I’m looking to collaborate as Backend developer - related to Spring-Boot
-- 💬 Ask me about Java, Spring, Spring-Boot, Hibernate, javscript
+- 💬 Ask me about Java, Spring, Spring-Boot, Hibernate, Javascript
 - 📫 How to reach me: vikkichoudhay6528@gmail.com
 - 👨‍💻 Know more about me 👉https://mevicky9254.github.io/
 
